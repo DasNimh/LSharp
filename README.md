@@ -4,16 +4,6 @@
 
 Welcome to LSharp, a programming language designed for converting directly into Lua.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Hello World](#hello-world)
-- [Syntax](#syntax)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 LSharp is a programming language specifically crafted for seamless conversion directly into Lua code.
